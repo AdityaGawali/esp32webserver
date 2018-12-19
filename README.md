@@ -1,6 +1,6 @@
 # WebServer on ESP32
 ## Smart Charger Module
-Only webserver has be implemented 
+Only webserver has been implemented yet
 ###### Things to accomplish
 -WebServer on ESP32
 
@@ -9,5 +9,3 @@ Only webserver has be implemented
 -DAC on esp32
 
 -DAC with webserver on ESP32
-
--Test
